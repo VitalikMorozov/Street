@@ -1,0 +1,725 @@
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\Микрорайон.exe.config
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\Микрорайон.exe
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.Properties.Resources.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.exe
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\Микрорайон 2000_данные.mdb
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.Form1.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.forms.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.Form1.ru.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\Google.Protobuf.dll
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\MySql.Data.dll
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\Google.Protobuf.xml
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\bin\Debug\MySql.Data.xml
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.FormSvedChild.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Client.csproj.CopyComplete
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.firstformdata.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.Roditeli.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.adddata.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.addfamily.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.ulica.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.detsad.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.shcool.resources
+F:\1EDUCATION\4\TexPrakt\project\client\Client\Client\obj\Debug\Микрорайон.ssyz.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Микрорайон.exe.config
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Микрорайон.exe
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Google.Protobuf.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\MySql.Data.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Google.Protobuf.xml
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\MySql.Data.xml
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.adddata.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.addfamily.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.detsad.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.firstformdata.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.Form1.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.forms.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.FormSvedChild.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.Properties.Resources.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.Roditeli.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.shcool.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.ssyz.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.ulica.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.Form1.ru.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Client.csproj.CopyComplete
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.exe
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.KLASSRUK.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.exe.config
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.zamdir.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\EnvDTE.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.Build.Framework.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\stdole.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\EnvDTE80.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\VSLangProj.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\VSLangProj80.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Newtonsoft.Json.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.MSXML.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\VSLangProj2.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.klass.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.childrenprev.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.selector1.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.selector2.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\GBUDataSet.cs
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\GBUDataSet.Designer.cs
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\GBUDataSet.xsc
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\GBUDataSet.xsd
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\bin\Debug\GBUDataSet.xss
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.selector3.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.selector4.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.svedchildren.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.country.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.VIEWER.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.GBUFORM.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.selectorreb.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.selectorrod.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.selectorcountry.resources
+F:\1EDUCATION\4\КУРСАЧ БД\Client\Client\obj\Debug\Микрорайон.GBUEDIT.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Микрорайон.exe.config
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Микрорайон.exe
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Google.Protobuf.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\MySql.Data.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\EnvDTE.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.Build.Framework.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\stdole.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\EnvDTE80.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\VSLangProj.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\VSLangProj80.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Newtonsoft.Json.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.MSXML.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\VSLangProj2.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Google.Protobuf.xml
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\MySql.Data.xml
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.exe.config
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.adddata.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.addfamily.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.childrenprev.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.country.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.detsad.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.firstformdata.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.Form1.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.forms.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.FormSvedChild.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.GBUEDIT.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.GBUFORM.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.klass.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.KLASSRUK.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.Properties.Resources.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.Roditeli.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.selector1.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.selector2.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.selector3.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.selector4.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.selectorcountry.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.selectorreb.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.selectorrod.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.shcool.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.ssyz.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.svedchildren.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.ulica.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.VIEWER.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.zamdir.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.Form1.ru.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\RdlCompile.cache
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\RdlCompile.compiled
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Client.csproj.CopyComplete
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.exe
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Микрорайон.enterAKTINFOM.resources
+F:\1EDUCATION\4\PredDiplom\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\PRG\Client\Client\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\PRG\Client\Client\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\PRG\Client\Client\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\PRG\Client\Client\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\PRG\Client\Client\bin\Debug\Микрорайон.exe.config
+C:\PRG\Client\Client\bin\Debug\Микрорайон.exe
+C:\PRG\Client\Client\bin\Debug\Микрорайон.pdb
+C:\PRG\Client\Client\bin\Debug\ru\Микрорайон.resources.dll
+C:\PRG\Client\Client\bin\Debug\Google.Protobuf.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+C:\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\PRG\Client\Client\bin\Debug\MySql.Data.dll
+C:\PRG\Client\Client\bin\Debug\EnvDTE.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\PRG\Client\Client\bin\Debug\stdole.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\PRG\Client\Client\bin\Debug\Microsoft.MSXML.dll
+C:\PRG\Client\Client\bin\Debug\Google.Protobuf.xml
+C:\PRG\Client\Client\bin\Debug\MySql.Data.xml
+C:\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\PRG\Client\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\PRG\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+C:\PRG\Client\Client\obj\Debug\Микрорайон.adddata.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.addfamily.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.childrenprev.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.country.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.detsad.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.enterAKTINFOM.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.firstformdata.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.Form1.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.forms.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.FormSvedChild.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.GBUEDIT.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.GBUFORM.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.klass.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.KLASSRUK.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.Properties.Resources.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.Roditeli.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.selector1.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.selector2.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.selector3.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.selector4.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.selectorcountry.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.selectorreb.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.selectorrod.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.shcool.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.ssyz.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.svedchildren.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.ulica.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.VIEWER.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.zamdir.resources
+C:\PRG\Client\Client\obj\Debug\Микрорайон.Form1.ru.resources
+C:\PRG\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\PRG\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\PRG\Client\Client\obj\Debug\ru\Микрорайон.resources.dll
+C:\PRG\Client\Client\obj\Debug\Client.csproj.CopyComplete
+C:\PRG\Client\Client\obj\Debug\Микрорайон.exe
+C:\PRG\Client\Client\obj\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Микрорайон.exe.config
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Микрорайон.exe
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Google.Protobuf.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\MySql.Data.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\EnvDTE.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.Build.Framework.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\stdole.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\EnvDTE80.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\VSLangProj.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\VSLangProj80.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Newtonsoft.Json.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.MSXML.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\VSLangProj2.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Google.Protobuf.xml
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\MySql.Data.xml
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.exe.config
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.adddata.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.addfamily.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.childrenprev.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.country.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.detsad.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.enterAKTINFOM.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.firstformdata.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.Form1.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.forms.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.FormSvedChild.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.GBUEDIT.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.GBUFORM.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.klass.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.KLASSRUK.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.Properties.Resources.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.Roditeli.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.selector1.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.selector2.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.selector3.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.selector4.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.selectorcountry.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.selectorreb.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.selectorrod.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.shcool.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.ssyz.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.svedchildren.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.ulica.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.VIEWER.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.zamdir.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.Form1.ru.resources
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\RdlCompile.cache
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\RdlCompile.compiled
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Client.csproj.CopyComplete
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.exe
+F:\1EDUCATION\4\PredDiplom\PRG\Client\Client\obj\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Микрорайон.exe.config
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Микрорайон.exe
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Микрорайон.pdb
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Bunifu_UI_v1.5.3.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Google.Protobuf.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.Common.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.Design.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.SqlServer.Types.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\MySql.Data.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\EnvDTE.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.Build.Framework.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\stdole.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.VSHelp.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.9.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.ProjectAggregator.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.ComponentModelHost.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Debugger.InteropA.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\EnvDTE80.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.Build.Tasks.Core.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Data.Services.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\VSLangProj.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Data.Core.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\VSLangProj80.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.ManagedInterfaces.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.WCFReference.Interop.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Debugger.Interop.11.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Newtonsoft.Json.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\System.Threading.Tasks.Dataflow.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.GraphModel.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.MSXML.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.Build.Utilities.Core.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.10.0.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\VSLangProj2.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Google.Protobuf.xml
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\MySql.Data.xml
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.11.0.xml
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.10.0.xml
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.14.0.xml
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Shell.Immutable.12.0.xml
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\Microsoft.VisualStudio.TemplateWizardInterface.xml
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.Data.Services.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.Data.Core.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\bin\Debug\ru\Microsoft.VisualStudio.GraphModel.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.exe.config
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Client.csproj.ResolveComReference.cache
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.adddata.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.addfamily.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.childrenprev.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.country.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.detsad.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.enterAKTINFOM.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.firstformdata.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.Form1.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.forms.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.FormSvedChild.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.GBUEDIT.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.GBUFORM.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.klass.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.KLASSRUK.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.Properties.Resources.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.Roditeli.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.selector1.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.selector2.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.selector3.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.selector4.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.selectorcountry.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.selectorreb.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.selectorrod.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.shcool.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.ssyz.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.svedchildren.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.ulica.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.VIEWER.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.zamdir.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.Form1.ru.resources
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Client.csproj.GenerateResource.cache
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\RdlCompile.cache
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\RdlCompile.compiled
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\ru\Микрорайон.resources.dll
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Client.csproj.CopyComplete
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.exe
+F:\1EDUCATION\4\PredDiplom\пЕРеЗАПИСЬ\PRG\Client\Client\obj\Debug\Микрорайон.pdb

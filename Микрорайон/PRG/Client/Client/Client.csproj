@@ -1,0 +1,484 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{22D9900F-9587-4CE9-8EDC-673174521948}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>Микрорайон</RootNamespace>
+    <AssemblyName>Микрорайон</AssemblyName>
+    <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\city_86340.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bunifu_UI_v1.5.3">
+      <HintPath>C:\Users\ADMIN-Lenovo\Desktop\Счетчик вторсырья\Счетчик вторсырья\bin\Debug\Bunifu_UI_v1.5.3.dll</HintPath>
+    </Reference>
+    <Reference Include="Google.Protobuf, Version=3.5.1.0, Culture=neutral, PublicKeyToken=a7d26565bac4d604, processorArchitecture=MSIL">
+      <HintPath>..\packages\Google.Protobuf.3.5.1\lib\net45\Google.Protobuf.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.DataVisualization, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.DataVisualization.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Design, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.Design.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.ProcessingObjectModel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.ProcessingObjectModel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WebForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Report.Viewer.11.0.0.0\lib\net\Microsoft.ReportViewer.WebForms.DLL</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.900.148\lib\net40\Microsoft.ReportViewer.WinForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.SqlServer.Types, Version=14.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.SqlServer.Types.14.0.1016.290\lib\net40\Microsoft.SqlServer.Types.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="MySql.Data, Version=8.0.14.0, Culture=neutral, PublicKeyToken=c5687fc88969c44d, processorArchitecture=MSIL">
+      <HintPath>..\packages\MySql.Data.8.0.14\lib\net452\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Transactions" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="adddata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="adddata.Designer.cs">
+      <DependentUpon>adddata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="addfamily.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="addfamily.Designer.cs">
+      <DependentUpon>addfamily.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AKTDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>AKTDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="childrenprev.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="childrenprev.Designer.cs">
+      <DependentUpon>childrenprev.cs</DependentUpon>
+    </Compile>
+    <Compile Include="country.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="country.Designer.cs">
+      <DependentUpon>country.cs</DependentUpon>
+    </Compile>
+    <Compile Include="detsad.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="detsad.Designer.cs">
+      <DependentUpon>detsad.cs</DependentUpon>
+    </Compile>
+    <Compile Include="enterAKTINFOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="enterAKTINFOM.Designer.cs">
+      <DependentUpon>enterAKTINFOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="firstformdata.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="firstformdata.Designer.cs">
+      <DependentUpon>firstformdata.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="forms.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="forms.Designer.cs">
+      <DependentUpon>forms.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSvedChild.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSvedChild.Designer.cs">
+      <DependentUpon>FormSvedChild.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GBUEDIT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GBUEDIT.Designer.cs">
+      <DependentUpon>GBUEDIT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GBUFORM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GBUFORM.Designer.cs">
+      <DependentUpon>GBUFORM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="klass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="klass.Designer.cs">
+      <DependentUpon>klass.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KLASSRUK.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KLASSRUK.Designer.cs">
+      <DependentUpon>KLASSRUK.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Roditeli.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Roditeli.Designer.cs">
+      <DependentUpon>Roditeli.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selector1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selector1.Designer.cs">
+      <DependentUpon>selector1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selector2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selector2.Designer.cs">
+      <DependentUpon>selector2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selector3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selector3.Designer.cs">
+      <DependentUpon>selector3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selector4.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selector4.Designer.cs">
+      <DependentUpon>selector4.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selectorcountry.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectorcountry.Designer.cs">
+      <DependentUpon>selectorcountry.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selectorreb.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectorreb.Designer.cs">
+      <DependentUpon>selectorreb.cs</DependentUpon>
+    </Compile>
+    <Compile Include="selectorrod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="selectorrod.Designer.cs">
+      <DependentUpon>selectorrod.cs</DependentUpon>
+    </Compile>
+    <Compile Include="shcool.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="shcool.Designer.cs">
+      <DependentUpon>shcool.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SqlServerTypes\Loader.cs" />
+    <Compile Include="ssyz.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ssyz.Designer.cs">
+      <DependentUpon>ssyz.cs</DependentUpon>
+    </Compile>
+    <Compile Include="svedchildren.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="svedchildren.Designer.cs">
+      <DependentUpon>svedchildren.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ulica.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ulica.Designer.cs">
+      <DependentUpon>ulica.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VIEWER.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VIEWER.Designer.cs">
+      <DependentUpon>VIEWER.cs</DependentUpon>
+    </Compile>
+    <Compile Include="zamdir.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="zamdir.Designer.cs">
+      <DependentUpon>zamdir.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="adddata.resx">
+      <DependentUpon>adddata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="addfamily.resx">
+      <DependentUpon>addfamily.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="childrenprev.resx">
+      <DependentUpon>childrenprev.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="country.resx">
+      <DependentUpon>country.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="detsad.resx">
+      <DependentUpon>detsad.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="enterAKTINFOM.resx">
+      <DependentUpon>enterAKTINFOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="firstformdata.resx">
+      <DependentUpon>firstformdata.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.ru.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="forms.resx">
+      <DependentUpon>forms.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSvedChild.resx">
+      <DependentUpon>FormSvedChild.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GBUEDIT.resx">
+      <DependentUpon>GBUEDIT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GBUFORM.resx">
+      <DependentUpon>GBUFORM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="klass.resx">
+      <DependentUpon>klass.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KLASSRUK.resx">
+      <DependentUpon>KLASSRUK.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="reportttt.rdlc" />
+    <EmbeddedResource Include="Roditeli.resx">
+      <DependentUpon>Roditeli.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selector1.resx">
+      <DependentUpon>selector1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selector2.resx">
+      <DependentUpon>selector2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selector3.resx">
+      <DependentUpon>selector3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selector4.resx">
+      <DependentUpon>selector4.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectorcountry.resx">
+      <DependentUpon>selectorcountry.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectorreb.resx">
+      <DependentUpon>selectorreb.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="selectorrod.resx">
+      <DependentUpon>selectorrod.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="shcool.resx">
+      <DependentUpon>shcool.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ssyz.resx">
+      <DependentUpon>ssyz.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="svedchildren.resx">
+      <DependentUpon>svedchildren.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ulica.resx">
+      <DependentUpon>ulica.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VIEWER.resx">
+      <DependentUpon>VIEWER.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="zamdir.resx">
+      <DependentUpon>zamdir.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="AKTDataSet.xsc">
+      <DependentUpon>AKTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="AKTDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>AKTDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="AKTDataSet.xss">
+      <DependentUpon>AKTDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="temp.docx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\TextFile1.txt" />
+    <Content Include="SqlServerTypes\readme.htm" />
+    <Content Include="SqlServerTypes\x64\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x64\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\msvcr120.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="SqlServerTypes\x86\SqlServerSpatial140.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <None Include="Resources\icons8-администратор-50.png" />
+    <None Include="Resources\icons8-войти-32 %281%29.png" />
+    <None Include="Resources\icons8-войти-32.png" />
+    <Content Include="Resources\city_86340.ico" />
+    <Content Include="tests.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.6.1">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.6.1 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Word1">
+      <Guid>{00020905-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>8</VersionMajor>
+      <VersionMinor>7</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
